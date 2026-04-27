@@ -79,8 +79,10 @@ git commit -m "Descripción del cambio"
 
 git push origin nombre-de-la-rama
 
-## Autor
+## Autores
 
 Manuel David Enrique Viña Ariza
+Juan Esteban Castillo Barragán
+
 Ingeniería de Sistemas
 Universidad Piloto de Colombia
